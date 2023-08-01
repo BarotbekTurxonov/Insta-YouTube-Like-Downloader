@@ -2,3 +2,4 @@ uvicorn
 fastapi
 requests
 aiohttp
+bs4
