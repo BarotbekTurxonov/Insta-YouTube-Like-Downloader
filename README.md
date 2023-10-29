@@ -1,4 +1,4 @@
-# Insta-YouTube-Like-Downloader
+# Insta-YouTube-Like-Pinterest-Downloader
  YouTube & Insta & Like  & Pinterest Downloader using FASTAPI 🤖
 
  ``` ⚠️ maybe api doesnt work) check urself ✔️ ```
